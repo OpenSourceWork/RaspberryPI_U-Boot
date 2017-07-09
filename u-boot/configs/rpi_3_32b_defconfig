@@ -1,4 +1,5 @@
 # Modified by Anil Joseph - 10th July 2017
+# Config file for UBOOT 32 bit build - Rasperry PI-3 
 CONFIG_ARM=y
 CONFIG_ARCH_BCM283X=y
 CONFIG_TARGET_RPI_3_32B=y
